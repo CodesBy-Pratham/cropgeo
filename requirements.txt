@@ -5,3 +5,4 @@ gunicorn>=21.2.0
 httpx>=0.24.0
 planetary_computer
 pystac_client
+GDAL==3.11.5

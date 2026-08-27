@@ -4,4 +4,7 @@
 *.log
 /node_modules
 /dist
-*.env
+*.envpgdata/
+.venv/
+.env
+__pycache__/
